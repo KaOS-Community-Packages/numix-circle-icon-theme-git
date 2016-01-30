@@ -5,7 +5,6 @@ pkgdesc='Circle icon theme from the Numix project'
 arch=('x86_64')
 url='http://numixproject.org/'
 license=('GPL3')
-depends=('numix-icon-theme-git')
 makedepends=('git')
 options=('!strip')
 install='numix-circle-icon-theme.install'
