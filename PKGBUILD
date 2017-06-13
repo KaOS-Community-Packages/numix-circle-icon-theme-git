@@ -1,5 +1,5 @@
 pkgname=numix-circle-icon-theme-git
-pkgver=0.r2954.6cccdbc
+pkgver=170405
 pkgrel=1
 pkgdesc='Circle icon theme from the Numix project'
 arch=('x86_64')
